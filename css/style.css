@@ -9,6 +9,7 @@ body {
   font-size: 15px;
   /* homework dodaj font ze strony google fonts i załącz do projektu */
 }
+
 .button {
   display: inline-block;
   -webkit-box-sizing: border-box;
